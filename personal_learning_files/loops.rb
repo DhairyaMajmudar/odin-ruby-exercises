@@ -10,7 +10,7 @@ loop do
 end
 
 # while 
-i = 0 
+i = 0
 while i < 10 do
     puts "i is #{i}"
     i+=1
